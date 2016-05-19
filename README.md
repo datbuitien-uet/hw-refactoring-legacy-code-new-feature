@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Legacy Code Refactoring and New Feature
 
 **Overview: Extending & Fixing Typo**
@@ -14,3 +15,6 @@ Assignment Structure:
 2. Drive changes through writing specs.
 
 Next: [Specify Feature](specify_feature.md)
+=======
+# hw-refactoring-legacy-code-new-feature
+>>>>>>> 84d7ed956946a51ff2769e1fb5b9a6f9d9423186
